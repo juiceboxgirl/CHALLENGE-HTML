@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alessia Cesaroni First Webpage</title>
+</head>
+<body>
+ <h1><b><font color="purple">Hello world, this is me!</font></b></h1> 
+ <p align="center"><img src="https://i.imgur.com/E2yMI4z.png" alt="me" /></p>
+<br>
+<div><p><font style="Helvetica" size="3px"><b>Let me introduce myself:</b> my name is Alessia, I'm a 31 year old from Italy who is just starting on programming. My previous field of study was foreign languages, but then I moved towards the digital world and I realized the great potential that being a programmer has in this day and age. During my teenage years I did try my hand on this or that code, just for fun, but I never really thought I could make it my job. Today's Alessia is here to prove younger Alessia wrong! Follow me along this path to greatness. </font></p></div>
+<br>
+<div><h3><b><font color="purple">About me</font></b></h3>
+<p><b>These are some things that inspire me:</b>
+<ul>
+    <li>Animation</li>
+    <li>Comics</li>
+    <li>Books</li>
+    <li>TV Series</li>
+    <li>Nature</li>
+
+</ul></p>
+<p><b>There are some of my hobbies:</b>
+<ul>
+    <li>Tennis</li>
+    <li>Drawing</li>
+    <li>Reading</li>
+    <li>Videogames</li>
+</ul></p>
+<p><b>There are some things I despise:</b>
+<ul>
+    <li>Cold food</li>
+    <li>Humid weather</li>
+    <li>Carbonara</li>
+    <li>Metal grills</li>
+</ul></p></div>
+<br>
+<div><h3><b><font color="purple">Academic History</font></b></h3>
+    <table><style>
+        table {
+        border-collapse:collapse
+        }
+        td, th {
+        border:1px solid #ddd;
+        padding:8px;
+        }
+        </style>
+        <tr><td><b>Diploma Liceo Linguistico presso Istituto "Augusto Capriotti"</b></td></tr>
+        <tr><td>2012, San Benedetto del Tronto (AP)</td></tr>
+        <tr><td><b>Main subjects:</b> English, German, French, Italian, Philosophy, History</td></tr>
+        <tr><td><b>Final vote</b>: 88/100</td></tr>
+        </table></div>
+        <br>
+        <table><style>
+            table {
+            border-collapse:collapse
+            }
+            td, th {
+            border:1px solid #ddd;
+            padding:8px;
+            }
+            </style>
+            <tr><td><b>Laurea Triennale in Disegno Industriale e Ambientale</b></td></tr>
+            <tr><td>2013-2015, Università di Camerino</td></tr>
+            <tr><td><b>Main subjects:</b> Industrial design, Environmental design, History of Design, Mathematics</td></tr>
+            <tr><td><b>Exams given</b>: 10</td></tr>
+            <tr><td><b>Average score</b>: 27.96</td></tr>
+            </table></div><br>
+            
+<div><h3><b><font color="purple">Job History</font></b></h3>
+    <table><style>
+        table {
+        border-collapse:collapse
+        }
+        td, th {
+        border:1px solid #ddd;
+        padding:8px;
+        }
+        </style>
+        <tr><td><b>WEB MEDIA CAPITAL</b></td></tr>
+        <tr><td>2020-2022, Digital company</td></tr>
+        <tr><td><b>Role(s):</b> Editor, SEO writer</td></tr>
+        <tr><td><b>Main tasks</b>: write SEO-oriented content; make sure all content is SEO-proofed before publication.</td></tr>
+        </table></div>
+        <br>
+        <table><style>
+            table {
+            border-collapse:collapse
+            }
+            td, th {
+            border:1px solid #ddd;
+            padding:8px;
+            }
+            </style>
+            <tr><td><b>Gamestop Italy Srl</b></td></tr>
+            <tr><td>2017-2018, Ascoli Piceno</td></tr>
+            <tr><td><b>Role:</b> Sales assistant</td></tr>
+            <tr><td><b>Main tasks</b>: cashier, stock clerk, visual marketing, customer care, mobile phone contracts.</td></tr>
+
+            </table></div><br>
+<div><h3><font color="purple"><b>Contacts</b></font></h3>
+<br><table><style>
+    table {
+    border-collapse:collapse
+    }
+    td, th {
+    border:1px solid #ddd;
+    padding:8px;
+    }
+    </style>
+    <tr><td><b>E-mail</b>:</td><td> alessia.cesxxxxxxxxx@xxxxx.com</td></tr>
+    <tr><td><b>Phone</b>:</td><td> 3337265989</td></tr>
+    <tr><td><b>Discord</b>:</td><td>@juiceboxgirl</td></tr>
+
+    </table></div><br></div>
+    <br><br><h1><b><font color="purple">That's all folks!</font></b></h1>
+</body>
+</html>
